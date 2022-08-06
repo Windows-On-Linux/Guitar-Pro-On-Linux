@@ -1,5 +1,5 @@
 mkdir ~/wol/Guitar_Pro_8
-cp ~/wol/Downloads/Guitar-Pro-On-Linux/icon.png ~/wol/Downloads/Guitar-Pro-On-Linux/startup.sh ~/wol/Guitar_Pro_8
+cp ~/wol/Downloads/Guitar_Pro_8/icon.png ~/wol/Downloads/Guitar_Pro_8/startup.sh ~/wol/Guitar_Pro_8
 echo "Downloading Guitar Pro 8..."
 wget https://download-fr-3.guitar-pro.com/gp8/stable/guitar-pro-8-setup.exe
 echo "Preparing Wineprefix enviroment..."
