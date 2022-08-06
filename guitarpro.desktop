@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Guitar Pro 8
+Icon=~/wol/Guitar_Pro_8/icon.png
+Exec=~/wol/Guitar_Pro_8/startup.sh
