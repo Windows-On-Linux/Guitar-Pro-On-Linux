@@ -1,1 +1,1 @@
-WINEARCH=win64 WINEPREFIX=~/wol/guitarpro8/ wine ~/wol/guitarpro8/drive_c/"Program Files"/"Arobas Music"/"Guitar Pro 8"/GuitarPro.exe
+WINEARCH=win64 WINEPREFIX=~/wol/Guitar_Pro_8/ wine ~/wol/Guitar_Pro_8/drive_c/"Program Files"/"Arobas Music"/"Guitar Pro 8"/GuitarPro.exe
